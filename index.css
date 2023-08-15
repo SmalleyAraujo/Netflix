@@ -234,3 +234,53 @@ main h1{
     margin-bottom: 10px;
 
 }
+
+.banner2{
+    height: 100vh;
+    background-image: url(images/246e4c20e2539af37de4a14a3f6cbd45d829cc99.png);
+    background-repeat: no-repeat;
+    background-size: cover;  
+     
+}
+.caixaCor1{
+    width: 15%;
+    height: 250px;
+    background-color:rgb(223, 56, 200) ;    
+    margin-bottom: 10px;
+}
+.caixaCor2{
+    width: 15%;
+    height: 250px;
+    background-color:rgb(108, 9, 173) ;    
+    margin-bottom: 10px;
+}
+.caixaCor3{
+    width: 15%;
+    height: 250px;
+    background-color:rgb(228, 245, 76) ;    
+    margin-bottom: 10px;
+}
+.caixaCor4{
+    width: 15%;
+    height: 250px;
+    background-color:rgb(63, 218, 42) ;    
+    margin-bottom: 10px;
+}
+.caixaCor5{
+    width: 15%;
+    height: 250px;
+    background-color:rgb(240, 42, 42) ;    
+    margin-bottom: 10px;
+}
+.caixaCor6{
+    width: 15%;
+    height: 250px;
+    background-color:rgb(223, 56, 200) ;    
+    margin-bottom: 10px;
+}
+.caixaCor7{
+    width: 15%;
+    height: 250px;
+    background-color:rgb(108, 9, 173) ;    
+    margin-bottom: 10px;
+}
